@@ -4,7 +4,8 @@
   "description": "Brunel's undergraduate marking/grade bounds dataset and byMark(grade) search.",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "standard && nyc node test.js",
+    "coverage": "nyc report --reporter=text-lcov | coveralls"
   },
   "repository": {
     "type": "git",
@@ -25,6 +26,9 @@
   },
   "homepage": "https://github.com/bencevans/brugrade#readme",
   "devDependencies": {
+    "coveralls": "^2.11.9",
+    "nyc": "^6.4.4",
+    "standard": "^7.1.2",
     "tape": "^4.5.1"
   }
 }
