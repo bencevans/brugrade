@@ -1,0 +1,30 @@
+{
+  "name": "brugrade",
+  "version": "0.0.0",
+  "description": "Brunel's undergraduate marking/grade bounds dataset and byMark(grade) search.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bencevans/brugrade.git"
+  },
+  "keywords": [
+    "brunel",
+    "uni",
+    "grade",
+    "marking",
+    "marks",
+    "degree"
+  ],
+  "author": "Ben Evans <ben@bensbit.co.uk> (http://bensbit.co.uk)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bencevans/brugrade/issues"
+  },
+  "homepage": "https://github.com/bencevans/brugrade#readme",
+  "devDependencies": {
+    "tape": "^4.5.1"
+  }
+}
