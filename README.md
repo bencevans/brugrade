@@ -54,6 +54,7 @@ standard
 ## Related
 
 * [(data src) New Regulations Undergraduate Honours Degree Programmes](https://www.brunel.ac.uk/__data/assets/pdf_file/0005/116834/30-New-Regulations-Undergraduate-Honours-Degree-Programmes.pdf)
+* [BruTime - node module for scraping Brunel's Timetabling portal](https://github.com/bencevans/brutime)
 
 ## Licence
 
