@@ -37,7 +37,6 @@ function byMark (mark) {
     let { boundaryLower, boundaryUpper } = boundary
 
     if (mark >= boundaryLower && mark <= boundaryUpper) {
-      console.log('woo')
       return boundary
     }
   })
