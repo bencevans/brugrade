@@ -1,6 +1,6 @@
 {
   "name": "brugrade",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Brunel's undergraduate marking/grade bounds dataset and byMark(grade) search.",
   "main": "index.js",
   "scripts": {
